@@ -1,4 +1,4 @@
-package task2;
+package lesson1.ex_2;
 
 public class Stock {
     String symbol;

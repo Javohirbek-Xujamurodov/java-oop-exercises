@@ -1,4 +1,4 @@
-package task1;
+package lesson1.ex_1;
 
 public class Rectangle {
     double width;
@@ -21,6 +21,4 @@ public class Rectangle {
     double getPerimeter() {
         return 2 * (width * height);
     }
-
-
 }

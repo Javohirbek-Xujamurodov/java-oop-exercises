@@ -1,8 +1,8 @@
-package task3;
+package lesson1.ex_3;
 
-public class Task3 {
+public class TestAccaunt {
     public static void main(String[] args) {
-        Account myAccount = new Account(1122, 20000);
+        Accaunt myAccount = new Accaunt(1122, 20000);
         myAccount.setAnnualInterestRate(4.5);
 
         myAccount.withdraw(2500);
@@ -13,4 +13,4 @@ public class Task3 {
         System.out.println("Final Balance: $" + myAccount.getBalance());
         System.out.println("Monthly Interest: $" + myAccount.getMonthlyInterest());
     }
-    }
+}

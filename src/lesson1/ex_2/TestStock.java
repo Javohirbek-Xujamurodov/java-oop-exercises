@@ -1,6 +1,6 @@
-package task2;
+package lesson1.ex_2;
 
-public class Task2 {
+public class TestStock {
     public static void main(String[] args) {
         Stock stock = new Stock("ORCL", "Oracle Corporation");
         stock.previousClosingPrice = 34.5;

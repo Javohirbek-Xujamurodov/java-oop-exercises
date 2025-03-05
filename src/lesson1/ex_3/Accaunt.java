@@ -1,17 +1,17 @@
-package task3;
+package lesson1.ex_3;
 
-public class Account {
+public class Accaunt {
     int id;
     double balance;
     double annualInterestRate;
 
-    Account() {
+    Accaunt() {
         this.id = 0;
         this.balance = 0;
         this.annualInterestRate = 0;
     }
 
-    Account(int id, double balance) {
+    Accaunt(int id, double balance) {
         this.id = id;
         this.balance = balance;
     }
@@ -60,8 +60,5 @@ public class Account {
     public void setAnnualInterestRate(double annualInterestRate) {
         this.annualInterestRate = annualInterestRate;
     }
-
-
-
 
 }

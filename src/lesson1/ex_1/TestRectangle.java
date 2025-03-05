@@ -1,6 +1,6 @@
-package task1;
+package lesson1.ex_1;
 
-public class Task1 {
+public class TestRectangle {
     public static void main(String[] args) {
         Rectangle rectangle1 = new Rectangle(4,40);
         System.out.println("\nRectangle 1:");
