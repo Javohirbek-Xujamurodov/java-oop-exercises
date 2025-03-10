@@ -1,4 +1,4 @@
-package lesson2.ex_3;
+package oppExercises.ex1_3;
 
 public class testRectangle {
     public static void main(String[] args) {

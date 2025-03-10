@@ -1,4 +1,4 @@
-package lesson2.ex_4;
+package oppExercises.ex1_4;
 
 public class Employee {
     private int id;

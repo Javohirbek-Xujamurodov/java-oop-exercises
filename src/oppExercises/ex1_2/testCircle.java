@@ -1,4 +1,4 @@
-package lesson2.ex_2;
+package oppExercises.ex1_2;
 
 public class testCircle {
     public static void main(String[] args) {

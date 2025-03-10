@@ -1,4 +1,4 @@
-package lesson2.ex_5;
+package oppExercises.ex1_5;
 
 public class TestInvoiceItem {
     public static void main(String[] args) {
